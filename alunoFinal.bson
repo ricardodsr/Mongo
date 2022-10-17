@@ -1,0 +1,13 @@
+{
+  "nome": "Antonio",
+  "idade": 12, 
+  "gostade":["maça","video","jogos"], 
+  "matriculado": true, 
+ 
+ "disciplinas": { 
+    "Portugues" : 16.5, 
+    "Matematica" : 18,
+    "Historia" : 10
+  }
+  
+}
