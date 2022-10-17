@@ -11,8 +11,8 @@
   "gostade":["maça","video","jogos"], // ARRAY
   "matriculado": true, // Bool
   "disciplinas": { //OBJECTO
-    "Portugues" : 16.5 //FLOAT
-    "Matematica" : 18
+    "Portugues" : 16.5, //FLOAT
+    "Matematica" : 18,
     "Historia" : 10
   }
 }
