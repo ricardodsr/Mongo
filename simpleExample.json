@@ -1,0 +1,20 @@
+// Simple script Sample
+// DataType
+
+// JSON -> JavaSript Object Notation
+// BSON -> Binary JSON
+
+
+// Criação de um documento
+{
+  "nome": "Antonio", // String
+  "idade": 12, //errado, pq a idade muda !! ideal guardar a dob(dateOfBirth) INT
+  "gostade":["maça","video","jogos"], // ARRAY
+  "matriculado": True, // Bool
+  "disciplinas": { //OBJECTO
+    "Portugues" : 16
+    "Matematica" : 18
+    "Historia" : 10
+  }
+}
+
