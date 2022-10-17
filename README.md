@@ -19,11 +19,12 @@ DB Paradigm
 https://www.mongodb.com/try/download/community
 https://youtu.be/jrPHWgW78wU
 
-# Linux
+# Linux (Aconselhado, visto quase todas as BD tao alocadas em Linux)
 https://www.mongodb.com/try/download/community
 https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/#official-mongodb-packages
   
-#MACOS
+# MACOS
 https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/#install-mongodb-community-edition
 https://www.mongodb.com/try/download/community
+
 
