@@ -9,7 +9,7 @@
   "nome": "Antonio", // String
   "idade": 12, //errado, pq a idade muda !! ideal guardar a dob(dateOfBirth) INT ou Number
   "gostade":["maça","video","jogos"], // ARRAY
-  "matriculado": True, // Bool
+  "matriculado": true, // Bool
   "disciplinas": { //OBJECTO
     "Portugues" : 16.5 //FLOAT
     "Matematica" : 18
